@@ -1,4 +1,4 @@
-# basic_database
+# BASIC Database
 A simple, password-protected database in BASIC ...
 
 ... to store up to 101 (!) email addresses.
