@@ -1,4 +1,4 @@
-# BASIC Database
+# basic_database
 A simple, password-protected BASIC database
 
 ## Features
