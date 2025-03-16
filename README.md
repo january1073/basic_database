@@ -1,6 +1,8 @@
 # BASIC Database
-A simple, password-protected database in BASIC ...
+A simple, password-protected BASIC database
 
-... to store up to 101 (!) email addresses.
+## Features
+Store up to 101 email addressess (extendable)
 
-**Important**: This program is insecurely designed and should not be used to store sensitive data.
+## Notes
+Insecure design; do not use this program to store sensitive data
